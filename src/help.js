@@ -5,7 +5,7 @@ const help = (prefix) => {
  <══════════════════════>
 
 __█████████  ● ᏴϴͲ●ᎷᎬΝႮ●         
-__█▄█████▄█   *DONO*    : CAUSS
+__█▄█████▄█   *DONO*    : SELT
 __█▼▼▼▼▼█ 
 _██ᏴϴͲ Ꮩ3.8██▌ 
 __█▲▲▲▲▲█ 
@@ -16,8 +16,8 @@ ____██_____██
 ║〘 INFORMAÇÕES 〙
 ║
 ╠🐉 *CAUSS BOT* 
-╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃗CAUSS (base dark) 
-╠🐉 *wa.me/+5547992091566*
+╠🐉 𝐃𝐎𝐍𝐎:  ⃬⃬⃗⃗ SELT(BAse dark) 
+╠🐉 *wa.me/+5531983410544*
 ╠🐉 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ║
@@ -226,18 +226,18 @@ ____██_____██
 ║🐊 *gemidao*
 ║🐊 *musica*
 ║
-╠══🐰〘 CAUSS NO CONTROLE 〙🐰══
+╠══🐰〘 SELT BRABO 〙🐰══
 ║
-║ *NOME: CAUSS*
-║ *INSTA: animexx_png*
-║ *WPP: wa.me/+5547992091566*
+║ *NOME: SELT*
+║ *INSTA: JOSE_SELTZIN*
+║ *WPP: wa.me/+5531983410544*
 ║ *YOUTUBE: https://youtube.com/c/caussZ*
 ║
 ║  *"base do lindo (DARK BOT 4.0)🐊🚩*
 ║  *"kiba não xereka"*
 ║  *Número do dark: wa.me/+5522996215481
 ║
-╚═〘 CAUSS BOT 〙`
+╚═〘 SELT BOT 〙`
 }
 
 exports.help = help
